@@ -26,7 +26,7 @@ class AllMovies : ConfigurableAnimeSource, ParsedAnimeHttpSource() {
 
     override val name = "AllMoviesForYou"
 
-    override val baseUrl = "https://allmoviesforyou.net"
+    override val baseUrl = "https://animevietsub.io/"
 
     override val lang = "en"
 
